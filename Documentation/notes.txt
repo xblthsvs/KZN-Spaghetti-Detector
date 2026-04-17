@@ -1,0 +1,5 @@
+Datasets from roboflow:
+- Has success images (only 33 images) https://universe.roboflow.com/om-sakharkar-d0y3z/3d-print-failure-detection-pbxw5/browse?queryText=class%3Asuccess&pageSize=50&startingIndex=0&browseQuery=true
+- Has only fails (3421): https://app.roboflow.com/xblths-workspace/3d-print-fail-7ipuj-bmeny/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+- Has success and fail (759 fail and 798 success): https://www.kaggle.com/datasets/justin900429/3d-printer-defected-dataset
+- Has a shitton: https://www.kaggle.com/datasets/nimbus200/3d-printing-errors
